@@ -1,10 +1,10 @@
 # jsParsingDiscordBot
 
-<h2>
+<h4>
   Hello! this is a js interpreting bot. However, I havent made a sandbox for it
   so its still prone to risk. For that reason, i introduced a temporary way to
   go around that. Ill add a sandbox with time so that everyone can use it!
-</h2>
+</h4>
 
 <div>
   <b>For running the bot: </b>
